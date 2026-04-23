@@ -1,2 +1,2 @@
 # Midas
-Project repo for the JPMC Advanced Software Engineering Forage program
+Kafka + Spring Boot microservice for high-volume financial transaction processing — JPMorgan Chase Advanced SE Program
